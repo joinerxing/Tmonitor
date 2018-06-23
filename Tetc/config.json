@@ -1,0 +1,8 @@
+{
+	"mode":"http",
+	"http":"http://192.168.1.80/stat.php",
+	"udp":"127.0.0.1:6000",
+	"sec":300,
+	"sign":"E5Nu&znN",
+	"sjoin":","
+}
